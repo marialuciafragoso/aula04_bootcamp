@@ -1,5 +1,5 @@
-
-
+#?Importando arquivo
+#! mode= r ou w
 import csv
 
 # Caminho para o arquivo CSV
